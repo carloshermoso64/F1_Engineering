@@ -3,3 +3,5 @@ src/
 tests/
 utils/
 venv/
+.DS_Store
+pyproject.toml
